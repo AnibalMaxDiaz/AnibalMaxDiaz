@@ -1,3 +1,11 @@
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+
+
+
+
 - 👋 Hi, I’m @AnibalMaxDiaz
 - 👀 I’m interested in learning and practicing code
 - 🌱 I’m currently learning web development
@@ -5,6 +13,8 @@
 - 📫 How to reach me: you can contact me here: ing.anibalmax@gmail.com
 - ⚡ Fun fact: The world’s first website is still online. World’s first website was created By Tim Berners-Lee on August 6, 1991 and is still online.
 Although its not much by todays standards, but its the grandparent of all websites ever.
+
+
 
 <!---
 AnibalMaxDiaz/AnibalMaxDiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
